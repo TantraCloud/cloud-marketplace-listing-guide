@@ -91,18 +91,6 @@ Every contribution helps someone else.
 
 ---
 
-## ❤️ Support the Mission (Optional)
-
-This project will **always be free** and open.
-
-If it helped you and you'd like to support continued work:
-
-☕ Buy me a coffee (optional):  
-https://buymeacoffee.com/YOURNAME
-
-Your support motivates documentation, clarity, and expansions.
-
----
 
 ## 🌍 Vision
 
