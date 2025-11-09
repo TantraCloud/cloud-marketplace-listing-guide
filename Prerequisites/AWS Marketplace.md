@@ -108,4 +108,3 @@ Before you can publish your **model package** or **algorithm** in AWS Marketplac
 
 ### 🔗 References
 - [AWS Official Guide](https://docs.aws.amazon.com/marketplace/latest/userguide/saas-getting-started.html)
-- [Labra.io SaaS Listing Guide](https://labra.io/how-to-list-your-saas-on-aws-marketplace-step-by-step-guide-for-2025/)
