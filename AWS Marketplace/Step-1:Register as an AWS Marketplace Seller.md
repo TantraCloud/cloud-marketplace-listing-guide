@@ -81,7 +81,7 @@ Fill in:
 
 ---
 
-## After Approval: [Next Steps]{https://github.com/TantraCloud/cloud-marketplace-listing-guide/blob/main/AWS%20Marketplace/Step-2%3A%20Provide%20Tax%20%20%26%20BankingInformation.md}
+## After Approval: [Next Steps](https://github.com/TantraCloud/cloud-marketplace-listing-guide/blob/main/AWS%20Marketplace/Step-2%3A%20Provide%20Tax%20%20%26%20BankingInformation.md)
 1. Provide Tax Information
 2. Set Up Payout (Banking) Details
 3. Verify Identity & Submit
