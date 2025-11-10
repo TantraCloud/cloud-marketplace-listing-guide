@@ -34,14 +34,16 @@ A simple, step-by-step guide to help developers and companies register as seller
 ### Step 2: Go to AWS Marketplace Seller Central
 1. In the AWS Console, search for **"Marketplace"** in the top search bar.
 2. Click on **"AWS Marketplace"** → **"Sell in AWS Marketplace"**.
-3. Or go directly: AWS Marketplace(https://aws.amazon.com/marketplace)
-   AWS Marketplace Seller Central(https://aws.amazon.com/marketplace/management/seller-settings/register)
+3. Or go directly: [AWS Marketplace](https://aws.amazon.com/marketplace)
+   [AWS Marketplace Seller Central](https://aws.amazon.com/marketplace/management/seller-settings/register)
 
-<img width="1875" height="572" alt="image" src="https://github.com/user-attachments/assets/f4502779-9050-46a1-8e12-6aa19e65a7a5" />
+
 
 
 <img width="1882" height="875" alt="image" src="https://github.com/user-attachments/assets/338e09a8-6eaf-4ffb-ac30-6055d6a965ac" />
 
+
+<img width="1875" height="572" alt="image" src="https://github.com/user-attachments/assets/f4502779-9050-46a1-8e12-6aa19e65a7a5" />
 
 ---
 
@@ -52,8 +54,6 @@ A simple, step-by-step guide to help developers and companies register as seller
 4. Click **Continue**.
 
 
-
-<img width="1893" height="988" alt="image" src="https://github.com/user-attachments/assets/405b0639-0c0f-451a-8f48-c19616fa96a4" />
 
 ---
 
