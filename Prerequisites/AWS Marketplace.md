@@ -98,13 +98,33 @@ Before you can publish your **model package** or **algorithm** in AWS Marketplac
 ---
 
 ## 6. Collect Required Assets
-- Product logo URL (hosted on Amazon S3)
-- End User License Agreement (EULA) in PDF format
-- Fulfillment URL (where customers are redirected after subscribing)
-- Support contact details
-- Metadata (categories, keywords, descriptions)
+
+- Product logo URL – A publicly accessible Amazon S3 URL that contains a clear image of the logo for the product that you're providing.
+- End User License Agreement (EULA) URL – Your product must have a EULA that's available as a PDF file. You must provide a link to an Amazon S3 bucket where customers can review the EULA on your product's AWS Marketplace page.
+- Product registration URL – This is the URL where buyers are redirected after successfully subscribing to your product in AWS Marketplace.
+- Metadata about your product – You provide the metadata in the product creation wizard of the AWS Marketplace Management Portal.
+- Support information for your product – This information includes email addresses and URLs for your product's support channels.
 
 ---
 
-### 🔗 References
-- [AWS Official Guide](https://docs.aws.amazon.com/marketplace/latest/userguide/saas-getting-started.html)
+- 
+## Reference & Credit
+
+This guide is based on the official AWS tutorial video:
+
+> ** Reference** [AWS Official Guide](https://docs.aws.amazon.com/marketplace/latest/userguide/saas-getting-started.html)
+> **Channel:** Amazon Web Services  
+> **Duration:** ~5 minutes  
+
+**Thank you to AWS for the clear official guidance.**
+
+---
+
+<div align="center">
+
+---
+
+**Open Source Cloud Marketplace Documentation**  
+**© 2025 Tantra Cloud**  
+
+</div>
