@@ -1,12 +1,11 @@
 #Provide Tax  & BankingInformation
 
----
 
 ### Step 1: Provide Tax Information
 1. Select your **country/region**.
 2. Enter **Tax ID** (e.g., EIN for US, VAT for EU).
 3. Complete **W-8BEN** or **W-9** form if prompted.
-
+---
 ###NOTE: 
 
 <img width="988" height="457" alt="image" src="https://github.com/user-attachments/assets/fd77d4ac-759c-4e0f-b46b-32f8168deab9" />
