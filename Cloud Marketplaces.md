@@ -28,7 +28,7 @@ Please refer to the original project for updates and contributions.
 
 <div align="center">
 
-**© 2025 YourName or YourGitHubUsername**  
+**© 2025 Tantra Cloud**  
 *Inspired by [cloudcommunity/Cloud-Marketplaces](https://github.com/cloudcommunity/Cloud-Marketplaces)*
 
 </div>
