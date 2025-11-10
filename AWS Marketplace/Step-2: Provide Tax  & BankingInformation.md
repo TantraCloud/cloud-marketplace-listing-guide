@@ -57,3 +57,24 @@ AWS pays monthly via direct deposit.
 | Stuck on verification | Reply to AWS email with clearer documents |
 
 ---
+
+## Reference & Credit
+
+This guide is based on the official AWS tutorial video:
+
+> **Video:** [How to register as an AWS Marketplace seller | Amazon Web Services](https://youtu.be/w6XECzZOfXY)  
+> **Channel:** Amazon Web Services  
+> **Duration:** ~5 minutes  
+
+**Thank you to AWS for the clear official guidance.**
+
+---
+
+<div align="center">
+
+---
+
+**Open Source Cloud Marketplace Documentation**  
+**© 2025 Tantra Cloud**  
+
+</div>
