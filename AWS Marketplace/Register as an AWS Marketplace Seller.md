@@ -1,21 +1,18 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 # Register as an AWS Marketplace Seller
+
+
+
 
 <img width="1011" height="522" alt="image" src="https://github.com/user-attachments/assets/7d9baa38-8e5b-4744-9b74-ddb2c8c90769" />
 
+
+
+
 A simple, step-by-step guide to help developers and companies register as sellers on **AWS Marketplace** and start listing software, SaaS, or services.
+
 
 > **Time Required:** 15–30 minutes  
 > **Approval Time:** Up to 2 business days  
@@ -29,7 +26,7 @@ A simple, step-by-step guide to help developers and companies register as seller
 1. Go to [https://console.aws.amazon.com](https://console.aws.amazon.com)
 2. Sign in with your **root account** or IAM user with admin rights.
 
-![Step 1: AWS Console Login](<img width="529" height="167" alt="image" src="https://github.com/user-attachments/assets/070b25f3-9545-417c-9448-9ebdb5b3a049" />)
+<img width="529" height="167" alt="image" src="https://github.com/user-attachments/assets/070b25f3-9545-417c-9448-9ebdb5b3a049" />
 
 
 ---
@@ -39,8 +36,7 @@ A simple, step-by-step guide to help developers and companies register as seller
 2. Click on **"AWS Marketplace"** → **"Sell in AWS Marketplace"**.
 3. Or go directly: [https://sellercentral.amazon.com](https://sellercentral.amazon.com)
 
-![Step 2: Access Seller Central](<img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/e462ce4a-8e3d-45bc-bf41-700b55fff8c7" />
-)
+<img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/e462ce4a-8e3d-45bc-bf41-700b55fff8c7" />
 
 ---
 
@@ -52,7 +48,7 @@ A simple, step-by-step guide to help developers and companies register as seller
 
 
 
-![Step 3: Accept Agreement](<img width="1893" height="988" alt="image" src="https://github.com/user-attachments/assets/405b0639-0c0f-451a-8f48-c19616fa96a4" />)
+<img width="1893" height="988" alt="image" src="https://github.com/user-attachments/assets/405b0639-0c0f-451a-8f48-c19616fa96a4" />
 
 ---
 
@@ -66,7 +62,7 @@ Fill in:
 
  
 
-![Step 4: Company Details]( <img width="1185" height="966" alt="image" src="https://github.com/user-attachments/assets/60acf054-cd84-4c43-9eff-f9be1c1f3353" />)
+<img width="1185" height="966" alt="image" src="https://github.com/user-attachments/assets/60acf054-cd84-4c43-9eff-f9be1c1f3353" />
 
 <img width="1221" height="800" alt="image" src="https://github.com/user-attachments/assets/3c728b82-1f1d-4843-806a-40df9de0f09f" />
 
@@ -80,7 +76,7 @@ Fill in:
 2. Enter **Tax ID** (e.g., EIN for US, VAT for EU).
 3. Complete **W-8BEN** or **W-9** form if prompted.
 
-![Step 5: Tax Information](images/step-5-tax.png)
+
 
 > International sellers: See [AWS Tax Help](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-tax-registrations.html)
 
@@ -91,7 +87,7 @@ Fill in:
 2. Provide routing & account numbers.
 3. Select currency (USD recommended for global reach).
 
-![Step 6: Banking Setup](images/step-6-banking.png)
+
 
 > AWS pays monthly via direct deposit.
 
@@ -102,7 +98,7 @@ Fill in:
 2. Review all information.
 3. Click **Submit Application**.
 
-![Step 7: Submit Application](images/step-7-submit.png)
+
 
 ---
 
@@ -111,7 +107,7 @@ Fill in:
 - AWS reviews within **1–2 business days**.
 - Once approved, you’ll get access to **Seller Dashboard**.
 
-![Step 8: Approval Email](images/step-8-approval.png)
+
 
 > Start preparing your product listing (AMI, SaaS, container) while waiting!
 
@@ -158,10 +154,6 @@ This guide is based on the official AWS tutorial video:
 ---
 
 **Open Source Cloud Marketplace Documentation**  
-**© 2025 YOUR_GITHUB_USERNAME**  
-*Part of the Cloud Marketplaces Open Guide Project*  
-*Inspired by [cloudcommunity/Cloud-Marketplaces](https://github.com/cloudcommunity/Cloud-Marketplaces)*
-
-[![GitHub](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR-REPO?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR-REPO)
+**© 2025 Tantra Cloud**  
 
 </div>
