@@ -1,34 +1,25 @@
-<img width="1011" height="522" alt="image" src="https://github.com/user-attachments/assets/7d9baa38-8e5b-4744-9b74-ddb2c8c90769" />
-
-<img width="529" height="167" alt="image" src="https://github.com/user-attachments/assets/070b25f3-9545-417c-9448-9ebdb5b3a049" />
 
 
-<img width="1893" height="988" alt="image" src="https://github.com/user-attachments/assets/405b0639-0c0f-451a-8f48-c19616fa96a4" />
-
-<img width="1185" height="966" alt="image" src="https://github.com/user-attachments/assets/60acf054-cd84-4c43-9eff-f9be1c1f3353" />
 
 
-<img width="1221" height="800" alt="image" src="https://github.com/user-attachments/assets/3c728b82-1f1d-4843-806a-40df9de0f09f" />
+
+
+
+
+
+
+
 
 
 # Register as an AWS Marketplace Seller
+
+<img width="1011" height="522" alt="image" src="https://github.com/user-attachments/assets/7d9baa38-8e5b-4744-9b74-ddb2c8c90769" />
 
 A simple, step-by-step guide to help developers and companies register as sellers on **AWS Marketplace** and start listing software, SaaS, or services.
 
 > **Time Required:** 15–30 minutes  
 > **Approval Time:** Up to 2 business days  
 > **Official Reference:** [AWS Marketplace Seller Guide](https://docs.aws.amazon.com/marketplace/latest/userguide/seller-registration.html)
-
----
-
-## Prerequisites
-
-Before starting, ensure you have:
-- An active **AWS account** [](https://portal.aws.amazon.com/billing/signup)
-- **Business information** (company name, address, D-U-N-S number if available)
-- **Tax ID** (EIN, VAT, etc.)
-- **Bank account details** for payouts
-- Ability to upload identity documents
 
 ---
 
@@ -39,6 +30,8 @@ Before starting, ensure you have:
 2. Sign in with your **root account** or IAM user with admin rights.
 
 ![Step 1: AWS Console Login](images/step-1-login.png)
+
+<img width="529" height="167" alt="image" src="https://github.com/user-attachments/assets/070b25f3-9545-417c-9448-9ebdb5b3a049" />
 
 ---
 
@@ -57,6 +50,8 @@ Before starting, ensure you have:
 3. Check **"I have read and agree"**.
 4. Click **Continue**.
 
+<img width="1893" height="988" alt="image" src="https://github.com/user-attachments/assets/405b0639-0c0f-451a-8f48-c19616fa96a4" />
+
 ![Step 3: Accept Agreement](images/step-3-agreement.png)
 
 ---
@@ -69,9 +64,12 @@ Fill in:
 - Website (optional but recommended)
 - **D-U-N-S Number** (get free at [dnb.com](https://www.dnb.com))
 
+  <img width="1185" height="966" alt="image" src="https://github.com/user-attachments/assets/60acf054-cd84-4c43-9eff-f9be1c1f3353" />
+
 ![Step 4: Company Details](images/step-4-company.png)
 
 > **Tip:** Accurate info = faster approval.
+<img width="1221" height="800" alt="image" src="https://github.com/user-attachments/assets/3c728b82-1f1d-4843-806a-40df9de0f09f" />
 
 ---
 
