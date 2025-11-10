@@ -30,6 +30,12 @@ A simple, step-by-step guide to help developers and companies register as seller
 
 
 ---
+### NOTE:
+
+<img width="1103" height="129" alt="image" src="https://github.com/user-attachments/assets/33ba56d2-56b3-4361-a29d-307b70b8943d" />
+
+
+---
 
 ### Step 2: Go to AWS Marketplace Seller Central
 1. In the AWS Console, search for **"Marketplace"** in the top search bar.
@@ -75,66 +81,12 @@ Fill in:
 
 ---
 
-### Step 5: Provide Tax Information
-1. Select your **country/region**.
-2. Enter **Tax ID** (e.g., EIN for US, VAT for EU).
-3. Complete **W-8BEN** or **W-9** form if prompted.
-
-
-
-> International sellers: See [AWS Tax Help](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-tax-registrations.html)
-
----
-
-### Step 6: Set Up Payout (Banking) Details
-1. Enter your **bank account** (must be business account).
-2. Provide routing & account numbers.
-3. Select currency (USD recommended for global reach).
-
-
-
-> AWS pays monthly via direct deposit.
-
----
-
-### Step 7: Verify Identity & Submit
-1. Upload **proof of business** (e.g., business license, utility bill, articles of incorporation).
-2. Review all information.
-3. Click **Submit Application**.
-
-
-
----
-
-### Step 8: Wait for Approval
-- You’ll receive a **confirmation email**.
-- AWS reviews within **1–2 business days**.
-- Once approved, you’ll get access to **Seller Dashboard**.
-
-
-
-> Start preparing your product listing (AMI, SaaS, container) while waiting!
-
----
-
 ## After Approval: Next Steps
-1. Log in to [Seller Central](https://sellercentral.amazon.com)
-2. Create your first **product listing**
-3. Choose pricing model: Pay-as-you-go, monthly, annual, etc.
-4. Publish and promote!
+1. Provide Tax Information
+2. Set Up Payout (Banking) Details
+3. Verify Identity & Submit
 
----
 
-## Common Issues & Fixes
-
-| Issue | Solution |
-|------|----------|
-| "Invalid tax ID" | Double-check format; contact AWS Support |
-| No D-U-N-S number | Get one free at [dnb.com](https://www.dnb.com) |
-| Bank not accepted | Use a supported country/bank (check AWS docs) |
-| Stuck on verification | Reply to AWS email with clearer documents |
-
----
 
 ## Reference & Credit
 
@@ -143,11 +95,6 @@ This guide is based on the official AWS tutorial video:
 > **Video:** [How to register as an AWS Marketplace seller | Amazon Web Services](https://youtu.be/w6XECzZOfXY)  
 > **Channel:** Amazon Web Services  
 > **Duration:** ~5 minutes  
-> **Key Transcript Excerpts:**  
-> - *"Start by signing into the AWS Management Console..."*  
-> - *"Carefully review and accept the seller agreement..."*  
-> - *"Enter accurate tax and banking information to receive payouts..."*  
-> - *"Submit and expect a response within 2 business days."*
 
 **Thank you to AWS for the clear official guidance.**
 
