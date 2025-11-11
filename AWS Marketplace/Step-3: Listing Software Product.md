@@ -176,7 +176,7 @@ Optional:
 | Go live | Once approved, listing appears in AWS Marketplace |
 
 ---
-### Next Steps: Step-4
+### Next Steps: [Step-4](https://github.com/TantraCloud/cloud-marketplace-listing-guide/blob/main/AWS%20Marketplace/Step-4%3A%20Set%20Up%20SaaS%20Integration.md)
 
 ### Set Up SaaS Integration (Technical Configuration)
 
