@@ -56,11 +56,12 @@ This community helps you do it successfully.
 
 | Guide | Status |
 |------|--------|
-| **AWS Marketplace Listing Guide** | 🟢 coming soon |
+| **AWS Marketplace Listing Guide** | ✅ **[View Guide](https://github.com/TantraCloud/cloud-marketplace-listing-guide/tree/main/AWS%20Marketplace)** |
 | **Azure Marketplace Listing Guide** | 🟢 coming soon |
 | **GCP Marketplace Listing Guide** | 🟢 coming soon |
 | Common Rejection Reasons & How to Avoid Them | 🟢 coming soon |
 | Marketplace Pricing & Billing Models Explained | 🟢 coming soon |
+
 
 ---
 
