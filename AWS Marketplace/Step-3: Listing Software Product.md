@@ -66,21 +66,27 @@ Complete the **"Product overview"** section:
 > *(<img width="1391" height="966" alt="image" src="https://github.com/user-attachments/assets/515e87e7-670e-4e71-b7b7-f8dd30aa0bb7" />
 )*
 ---
-| **Product logo** | 216x216 PNG/JPG (recommended) |
-| **Highlight images** | Up to 5 promotional images |
+***Product logo*** | 216x216 PNG/JPG (recommended) |
+***Highlight images*** | Up to 5 promotional images |
 
 <img width="1080" height="807" alt="image" src="https://github.com/user-attachments/assets/2c905d5d-2b00-426d-982e-ae4a89ac39c5" />
 
 ---
-| **Support Information** | Including contact info and supporting links |
+***Support Information** | Including contact info and supporting links |
+
+
 <img width="1184" height="851" alt="image" src="https://github.com/user-attachments/assets/a1c7d7c1-5e34-4351-a62c-c33acce93631" />
 
 ---
-| **Product categories** | Select 3 relevant categories (e.g., Developer Tools, Business Applications) |
+***Product categories** | Select 3 relevant categories (e.g., Developer Tools, Business Applications) 
+
+
 
 <img width="1185" height="529" alt="image" src="https://github.com/user-attachments/assets/8ff4cca6-4af9-499a-9726-eafb3cc1efa6" />
 
-| **Supported countries** | Choose regions where SaaS will be available |
+
+
+ ***Supported countries**  Choose regions where SaaS will be available 
 ---
 
 ### 5. [Configure SaaS Pricing Model](https://docs.aws.amazon.com/marketplace/latest/userguide/pricing-models.html)
@@ -91,6 +97,7 @@ Choose one of the supported **SaaS pricing models**:
 | **SaaS Contract** | Fixed monthly/annual fee |
 | **SaaS Contract with Dimensions** | Tiered pricing (e.g., per user, per GB) |
 | **SaaS Subscription** | Recurring billing via AWS |
+
 
 <img width="1416" height="946" alt="image" src="https://github.com/user-attachments/assets/2840b745-15a9-41e0-949f-c47300b6498c" />
 
@@ -115,24 +122,32 @@ Optional:
 ---
 
 
-| **Set Prices** |
+  | ***Set Prices*** |
+  
 
 <img width="1437" height="961" alt="image" src="https://github.com/user-attachments/assets/43e9ef7c-0e99-4af0-9bc2-37a59f9fea5e" />
 
-| **Specify Refund Policy** |
+
+| ***Specify Refund Policy*** |
+
 
 <img width="788" height="394" alt="image" src="https://github.com/user-attachments/assets/4a98e122-ebf1-4697-a8e6-7af859337fa4" />
 
-| **Configure EULA** |
+
+| ***Configure EULA*** |
+
 
 <img width="790" height="515" alt="image" src="https://github.com/user-attachments/assets/50fcc0e8-d21a-4a32-aeff-9a1cedd1e7ac" />
 
 
-| **Configure Availability** |
+| ***Configure Availability*** |
+
 
 <img width="787" height="526" alt="image" src="https://github.com/user-attachments/assets/6bfd7cb2-0867-4e72-9ad3-26e159e90b47" />
 
+
 | **Configure Allowlist** |
+
 
 > **Note:** <img width="541" height="69" alt="image" src="https://github.com/user-attachments/assets/46787be2-0fe2-403f-8570-59538ce22fc8" />
 
@@ -161,7 +176,7 @@ Optional:
 | Go live | Once approved, listing appears in AWS Marketplace |
 
 ---
-### Next Steps:
+### Next Steps: Step-4
 
 ### Set Up SaaS Integration (Technical Configuration)
 
@@ -175,3 +190,25 @@ Optional:
 #### C. Configure AWS Marketplace Metering
 - Your app must call AWS Marketplace Metering Service to report usage.
 - Supported dimensions: `Users`, `Hosts`, `Data`, `Bandwidth`, etc.
+
+  ## Reference & Credit
+
+This guide is based on the official AWS tutorial video:
+
+> **Video:** [How to register as an AWS Marketplace seller | Amazon Web Services](https://youtu.be/w6XECzZOfXY)  
+> **Channel:** Amazon Web Services  
+> **Duration:** ~5 minutes  
+
+**Thank you to AWS for the clear official guidance.**
+
+---
+
+<div align="center">
+
+---
+
+**Open Source Cloud Marketplace Documentation**  
+**© 2025 Tantra Cloud**  
+
+</div>
+
