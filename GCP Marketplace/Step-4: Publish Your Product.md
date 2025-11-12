@@ -95,8 +95,3 @@ Thank you to **Google Cloud Platform (GCP)** for the official guidance.
   <strong>Open Source Cloud Marketplace Documentation</strong><br>
    2025 Tantra Cloud
 </p>
-
-<p align="center">
-  <strong>Open Source Cloud Marketplace Documentation</strong><br>
-  © 2025 Tantra Cloud
-</p>
