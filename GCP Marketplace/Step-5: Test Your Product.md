@@ -1,51 +1,97 @@
-# Step-X: Test Your SaaS Product Listing in Google Cloud Marketplace
+# Step-5: Test Your SaaS Product Listing in Google Cloud Marketplace
 
-This section covers how to test usage reporting for SaaS products offered through Google Cloud Marketplace. :contentReference[oaicite:1]{index=1}
-
----
-
-## Before you begin
-
-- To test usage reporting, your product’s pricing plan must be approved by Google. :contentReference[oaicite:2]{index=2}  
-- Make sure you are using a **Test Billing Account**, which has 100% discounted usage. :contentReference[oaicite:3]{index=3}  
-- Verify that you’ve turned on Customer incremental insights reports:  
-  - Set up to receive reports.  
-  - Turn on Customer incremental insights reports. :contentReference[oaicite:4]{index=4}  
+This section explains how to test usage reporting for **SaaS products listed in Google Cloud Marketplace**.  
+Testing ensures that your usage metering and reporting integration works correctly before your product goes live.
 
 ---
 
-## Run a test to generate usage
+## 🧭 Before You Begin
 
-1. In the Producer Portal, switch to a Google Cloud project associated with your **Test Billing Account**. :contentReference[oaicite:5]{index=5}  
-2. From your product’s Google Cloud Marketplace listing page, use your Test Billing Account to purchase the product. :contentReference[oaicite:6]{index=6}  
-3. Send an initial usage report for a single, recognizable metric. This should equal more than US $0.01, and be less than the amount of usage you expect in one hour of usage. For example, if you bill per GiB per hour, send a usage report equivalent to one GiB per hour. This simplifies verification when comparing with the Customer incremental insights report. :contentReference[oaicite:7]{index=7}  
-4. Continue to send at least one usage report per hour for at least six hours. If you send more than one per hour, the minimum length of the test remains six hours. :contentReference[oaicite:8]{index=8}  
-5. For the duration of the testing period, create logs that contain usage information you are reporting, e.g., in Google Sheets or CSV, with the following format:  
+Before testing:
+- Your product’s **pricing plan must be approved** by Google.
+- You must have a **Test Billing Account** configured in your partner project.
+- Make sure that:
+  - You have turned on **Customer Incremental Insights reports**.
+  - You are receiving **usage reports**.
+  - Your SaaS **fulfillment and usage reporting APIs** are fully implemented.
+
+📘 Reference: [Test usage reporting for SaaS products | Google Cloud Marketplace](https://cloud.google.com/marketplace/docs/partners/integrated-saas/test-usage-reporting)
+
+---
+
+## 🧪 Step-by-Step: Run a Test to Generate Usage
+
+### Step 1: Switch to Your Test Billing Account
+1. In the **Producer Portal**, switch to a Google Cloud project associated with your **Test Billing Account**.
+2. From your product’s **Google Cloud Marketplace listing page**, purchase the product using the Test Billing Account.
+
+> 🔹 A Test Billing Account provides 100% discounted usage and allows you to test safely.
+
+---
+
+### Step 2: Send Initial Usage Data
+1. Send an initial usage report for a single recognizable metric.
+   - It should be more than **US$0.01** but less than one hour of normal usage.
+   - Example: if you bill per GiB per hour, report 1 GiB for one hour.
+
+📘 Reference: [Sending usage reports](https://cloud.google.com/marketplace/docs/partners/integrated-saas/usage-reporting)
+
+---
+
+### Step 3: Continue Reporting for 6 Hours
+- Send at least **one usage report per hour** for a minimum of **six hours**.  
+- Even if you send more frequent reports, the testing period must last at least six hours.
+
+---
+
+### Step 4: Log Usage for Verification
+For each report, log usage details in a file (e.g., Google Sheets or CSV) with this format:
+
 Time (UTC) | operationID | startTime | endTime | consumerId | metricName | metricValue
 
 yaml
 Copy code
-Provide these logs (in Google Sheets or CSV) to your Google Cloud Marketplace partner engineering team. :contentReference[oaicite:9]{index=9}  
-6. After receiving the Customer incremental insights report for the time period you tested, Google will compare your reported values with expected values in the fields: `charges`, `sku_id`, `sku_description`, `usage`, `unit`, `currency`, `external_account_id`. :contentReference[oaicite:10]{index=10}  
+
+Send this log to your **Google Cloud Marketplace Partner Engineering** contact for validation.
 
 ---
 
-## Clean up after testing
+### Step 5: Verify Usage Data
+After your testing period:
+1. Wait for your **Customer Incremental Insights report**.
+2. Compare your usage reports with Google’s expected data:
+   - `charges`
+   - `sku_id`
+   - `sku_description`
+   - `usage`
+   - `unit`
+   - `currency`
+   - `external_account_id`
 
-Once Google receives and verifies your usage from the testing period:  
-- Stop sending usage reports for the entitlements you used for testing. :contentReference[oaicite:11]{index=11}  
-- Cancel all entitlements you created for testing. :contentReference[oaicite:12]{index=12}  
-- Remove any Google team members you added to your Cloud Billing account during testing. :contentReference[oaicite:13]{index=13}  
+Google will verify that your reporting aligns with their ingestion and billing systems.
 
 ---
 
-## Related topics
+## 🧹 Clean Up After Testing
 
-- Preview your product in Producer Portal to see how it appears to Marketplace users. :contentReference[oaicite:14]{index=14}  
-- Preview your product’s pricing plans. :contentReference[oaicite:15]{index=15}  
-- Submit your SaaS product after integration. :contentReference[oaicite:16]{index=16}  
+After verification:
+- Stop sending usage reports for the **test entitlements**.
+- Cancel all test entitlements created during testing.
+- Remove any **Google team members** added to your billing account for validation.
+
+📘 Reference: [Clean up after testing | Google Cloud Marketplace](https://cloud.google.com/marketplace/docs/partners/integrated-saas/test-usage-reporting#cleanup)
 
 ---
 
-**✅ After completion:**  
-If all testing passes as per the above steps, your SaaS product’s usage reporting integration is validated and you are ready to move forward to the final submission/publishing step.
+## 📚 Related Official References
+
+- [Test usage reporting for SaaS products](https://cloud.google.com/marketplace/docs/partners/integrated-saas/test-usage-reporting)  
+- [Preview your product in Producer Portal](https://cloud.google.com/marketplace/docs/partners/integrated-saas/preview)  
+- [Submit your SaaS product after integration](https://cloud.google.com/marketplace/docs/partners/integrated-saas/submitting)  
+- [Usage Reporting API overview](https://cloud.google.com/marketplace/docs/partners/integrated-saas/usage-reporting)
+
+---
+
+✅ **Next Step:** Once testing is complete and verified, proceed to  
+**Step-6: Submit Your SaaS Product for Final Review & Publishing** in the Google Cloud Marketplace.
+
