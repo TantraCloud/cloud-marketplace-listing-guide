@@ -5,6 +5,40 @@ This section outlines the key **listing requirements** and **best practices** fo
 
 ---
 
+# 🧾 Listing Options for SaaS Offers in Microsoft Marketplace
+
+When preparing to **publish a new SaaS offer**, you need to decide which **listing option** best fits your business model.  
+The **listing option** determines what additional information you must provide when creating your offer in **Partner Center**.
+
+You’ll define your listing option on the **Offer setup** page as explained in  
+[How to create a SaaS offer in Microsoft Marketplace](https://learn.microsoft.com/en-us/azure/marketplace/partner-center-portal/saas-offer-setup).
+
+---
+
+## 📋 SaaS Offer Listing Options
+
+| **Listing Option** | **Transaction Process** | **Can It Be Changed After Publishing?** |
+|---------------------|--------------------------|------------------------------------------|
+| **Contact me** | The customer contacts you directly from the information in your listing. <br><br> 🧑‍💼 *Publishers are responsible for all aspects of the transaction including order, fulfillment, billing, invoicing, and payment.* | ✅ Yes |
+| **Free trial** | The customer is redirected to your target URL via **Microsoft Entra ID**. <br><br> 🧑‍💼 *Publishers handle all transaction processes directly.* | ✅ Yes |
+| **Get it now (Free)** | The customer is redirected to your target URL via **Microsoft Entra ID**. <br><br> 🧑‍💼 *Publishers handle all transaction processes directly.* | ✅ Yes |
+| **Sell through Microsoft** | Offers sold through Microsoft are **transactable offers**, meaning Microsoft facilitates the exchange of money for your software license. <br><br> 💳 Microsoft bills customers using your chosen pricing model and manages the transaction on your behalf. <br> ☁️ Azure infrastructure usage fees are billed directly to you, the partner — include these costs in your pricing. | ❌ No |
+
+---
+
+## 💡 Notes
+- For **Contact me**, **Free trial**, and **Get it now (Free)** offers, publishers must support **all aspects of the software license transaction**, including:
+  - Order processing  
+  - Fulfillment  
+  - Metering  
+  - Billing and invoicing  
+  - Payment and collection  
+
+- For **Sell through Microsoft**, refer to the section **[SaaS billing](https://learn.microsoft.com/en-us/azure/marketplace/partner-center-portal/saas-billing)** for more details.
+
+---
+
+
 ## 🏷️ Offer Title
 
 - Must consist only of **lowercase letters**, **alphanumeric characters**, **dashes**, or **underscores**.  
