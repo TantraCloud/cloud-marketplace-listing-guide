@@ -1,6 +1,5 @@
 # 🔗 Integrate Your App with Google Cloud Marketplace
 
-bookmark_border  
 
 This section provides an overview of the steps required to **integrate your app with Google Cloud Marketplace**.  
 At a high level, integration involves connecting your app’s **backend** and **frontend** with Google Cloud APIs and services.
@@ -139,7 +138,19 @@ To do this:
 
 ---
 
+## 🪙 Reference & Credit
+
+This guide is based on the official **Google Cloud Marketplace** documentation.
+
+**Reference:**  
+Google Cloud Marketplace Official Setup Guide  
+Duration: ~7 minutes  
+
+Thank you to **Google Cloud Platform (GCP)** for the official guidance.
+
+---
+
 <p align="center">
-<strong>Open Source Cloud Marketplace Documentation</strong><br>
- 2025 Tantra Cloud
+  <strong>Open Source Cloud Marketplace Documentation</strong><br>
+   2025 Tantra Cloud
 </p>
