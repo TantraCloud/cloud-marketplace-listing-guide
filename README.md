@@ -12,7 +12,7 @@ Free, open community guide helping ISVs list their SaaS products on AWS, Azure, 
 
 ## 💡 Why This Exists
 
-Many companies charge **₹50,000 to ₹5,00,000+** just to *guide* someone to list their product in a cloud marketplace.
+Many companies charge **$5000 to $15000+** just to *guide* someone to list their product in a cloud marketplace.
 
 But the truth is:
 
