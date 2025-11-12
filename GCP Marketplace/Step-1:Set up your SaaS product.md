@@ -164,7 +164,7 @@ You use **Producer Portal** to add these details.
 
 <img width="1116" height="113" alt="image" src="https://github.com/user-attachments/assets/0e941b5a-4cab-4030-a3a0-5ff42f8cfa73" />
 
-**special category request form**.](https://docs.google.com/forms/d/1-VwD1yyr_w5yWYIbx0OFzQOp7XgSPpa6IgaWbltoR90/edit?resourcekey=0-93_HVNitkydC9bBb6oZiIg)
+[**special category request form**.](https://docs.google.com/forms/d/1-VwD1yyr_w5yWYIbx0OFzQOp7XgSPpa6IgaWbltoR90/edit?resourcekey=0-93_HVNitkydC9bBb6oZiIg)
 
 
 When ready, click **Submit**.  
