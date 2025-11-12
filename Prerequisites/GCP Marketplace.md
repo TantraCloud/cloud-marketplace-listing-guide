@@ -2,10 +2,8 @@
 
 ## Organization Requirements
 
-Your organization must join and maintain good standing in **Partner Advantage**.
-
-> **Note:**  
-> Your organization must be incorporated in one of the supported regions.  
+>Your organization must join and maintain good standing in **Partner Advantage**.
+>Your organization must be incorporated in one of the supported regions.  
 > Your organization must have a Cloud Marketplace vendor account and payment profile in good standing.
 
 ---
