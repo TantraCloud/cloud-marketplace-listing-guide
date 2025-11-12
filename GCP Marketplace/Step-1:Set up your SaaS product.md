@@ -64,6 +64,8 @@ After you have completed the form, your **Partner Engineer** will:
 
 These APIs are used to integrate your product with **Cloud Marketplace**.
 
+
+
 ---
 
 ## 🧭 Creating Your Product in the Producer Portal
@@ -89,6 +91,9 @@ To publish your product to Cloud Marketplace, you must submit the following deta
 At this stage, you only need to **create the entry** for your product in **Producer Portal**.  
 You can add marketing information later.
 
+<img width="1152" height="134" alt="image" src="https://github.com/user-attachments/assets/a9c27f91-bcd5-48a7-9987-6332d2850718" />
+
+
 ---
 
 ### 🔗 Direct Link to Producer Portal
@@ -100,6 +105,8 @@ You can add marketing information later.
 > - Verify that you’ve selected the correct project.  
 > - If the issue persists, contact the **Partner Support Desk** and include the word “Marketplace” in your description.  
 > See [Request assistance with Cloud Marketplace](https://cloud.google.com/marketplace/docs/partners/contact).
+
+<img width="1144" height="151" alt="image" src="https://github.com/user-attachments/assets/876280ab-661d-4861-959e-83395c190f7e" />
 
 ---
 
@@ -134,6 +141,8 @@ You use **Producer Portal** to add these details.
 > - If you still can’t access it, contact the **Partner Support Desk** and mention “Marketplace”.  
 > [Request assistance with Cloud Marketplace](https://cloud.google.com/marketplace/docs/partners/contact)
 
+<img width="1097" height="129" alt="image" src="https://github.com/user-attachments/assets/278a3db5-a172-450d-a4b9-0e8a356f4546" />
+
 ---
 
 ### 🧾 To Add Product Details
@@ -145,13 +154,18 @@ You use **Producer Portal** to add these details.
    - You can select **up to two Category IDs**.  
 4. ⚙️ **Note:** If your product connects to **Google Distributed Cloud**, add the following text to your product info:  
    > “We recommend that you only purchase this product for a duration equal to or less than the shortest subscription length of your Google Distributed Cloud-connected devices.”
+   >
+<img width="1092" height="154" alt="image" src="https://github.com/user-attachments/assets/f1cead03-b411-4b59-972a-c1751ef82b59" />
+
 5. Complete the **Documentation** tab:  
    - Add tutorials, documentation, and optional additional license agreements.  
 6. Complete the **Product metadata** tab:  
    - Add search metadata, keywords, and optionally customize your product’s detail page URL.
 
-> 🧩 Cloud Marketplace may require additional approvals for certain product categories.  
-> If you need to list your product in a category not shown in Producer Portal, use the **special category request form**.
+<img width="1116" height="113" alt="image" src="https://github.com/user-attachments/assets/0e941b5a-4cab-4030-a3a0-5ff42f8cfa73" />
+
+**special category request form**.](https://docs.google.com/forms/d/1-VwD1yyr_w5yWYIbx0OFzQOp7XgSPpa6IgaWbltoR90/edit?resourcekey=0-93_HVNitkydC9bBb6oZiIg)
+
 
 When ready, click **Submit**.  
 It takes approximately **2–5 days** for the **Partner Engineering team** to review and approve your product details.  
