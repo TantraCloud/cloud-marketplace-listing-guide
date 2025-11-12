@@ -57,7 +57,7 @@ This community helps you do it successfully.
 | Guide | Status |
 |------|--------|
 | **AWS Marketplace Listing Guide** | ✅ **[View Guide](https://github.com/TantraCloud/cloud-marketplace-listing-guide/tree/main/AWS%20Marketplace)** |
-| **Azure Marketplace Listing Guide** | 🟢 coming soon |
+| **Azure Marketplace Listing Guide** | ✅ **[View Guide](https://github.com/TantraCloud/cloud-marketplace-listing-guide/tree/main/Azure%20Marketplace)** |
 | **GCP Marketplace Listing Guide** | ✅ **[View Guide](https://github.com/TantraCloud/cloud-marketplace-listing-guide/tree/main/GCP%20Marketplace)** |
 | Common Rejection Reasons & How to Avoid Them | 🟢 coming soon |
 | Marketplace Pricing & Billing Models Explained | 🟢 coming soon |
