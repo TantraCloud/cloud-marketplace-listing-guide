@@ -102,6 +102,29 @@ A world where:
 
 ---
 
+---
+
+## ⚠️ Disclaimer
+
+This guide is a **community-maintained educational resource** created for learning and reference purposes only.  
+It is **not affiliated with**, **endorsed by**, or **officially supported** by Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP).
+
+All information provided here is based on:
+- Official public documentation, and  
+- Personal and community experience from ISVs, developers, and contributors.
+
+We make no guarantees of completeness, accuracy, or reliability of the information.  
+Use this content **at your own discretion and risk**.
+
+By using this repository, you agree that **the maintainers and contributors are not responsible** for:
+- Any loss, damage, or legal consequences,  
+- Any incorrect configurations or marketplace rejections resulting from following this guide.
+
+If you find inaccuracies or updates, please open an [issue](../../issues) or contribute corrections.
+
+---
+
+
 ## Reference & Credit
 
 This guide is based on the official AWS tutorial video:
