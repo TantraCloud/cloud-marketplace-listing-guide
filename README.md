@@ -156,4 +156,4 @@ This document includes content from the [Azure Commercial Marketplace SaaS Accel
 
 
 
-**Open Cloud. Open Knowledge. Open Opportunity.**
+                                                                                    **Open Cloud. Open Knowledge. Open Opportunity.**
