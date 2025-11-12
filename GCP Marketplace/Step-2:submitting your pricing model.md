@@ -66,8 +66,19 @@ This helps potential customers:
 - Build trust before subscription or usage-based billing begins
 
 ---
+## 🪙 Reference & Credit
+
+This guide is based on the official **Google Cloud Marketplace** documentation.
+
+**Reference:**  
+Google Cloud Marketplace Official Setup Guide  
+Duration: ~7 minutes  
+
+Thank you to **Google Cloud Platform (GCP)** for the official guidance.
+
+---
 
 <p align="center">
   <strong>Open Source Cloud Marketplace Documentation</strong><br>
-  © 2025 Tantra Cloud
+   2025 Tantra Cloud
 </p>
