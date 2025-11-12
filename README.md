@@ -100,4 +100,37 @@ A world where:
 - Knowledge is open.
 - Anyone can bring their product to global cloud marketplaces.
 
+---
+
+## Reference & Credit
+
+This guide is based on the official AWS tutorial video:
+
+> **Video:** [How to register as an AWS Marketplace seller | Amazon Web Services](https://youtu.be/w6XECzZOfXY)  
+> **Channel:** Amazon Web Services
+> [AWS Cloud Marketplace Official Setup Guide]([https://cloud.google.com/marketplace/sell?hl=en](https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html))   
+
+
+**Thank you to AWS for the clear official guidance.**
+
+## 🪙 Reference & Credit
+
+This guide is based on the official **Google Cloud Marketplace** documentation.
+
+**Reference:**  
+[Google Cloud Marketplace Official Setup Guide](https://cloud.google.com/marketplace/sell?hl=en)  
+
+
+Thank you to **Google Cloud Platform (GCP)** for the official guidance.
+
+## 🪙 Reference & Credit
+
+This guide is based on the official **AZURE Marketplace** documentation.
+
+**Credits:**  
+This document includes content from the [Azure Commercial Marketplace SaaS Accelerator](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator),  
+© Microsoft Corporation — Licensed under the MIT License.
+
+
+
 **Open Cloud. Open Knowledge. Open Opportunity.**
